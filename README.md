@@ -1,11 +1,3 @@
-<style>
-  /* 이미지 스타일 설정 */
-  p img {
-    width: 40px; /* 원하는 너비 값으로 조정 */
-    height: 40px; /* 원하는 높이 값으로 조정 */
-  }
-</style>
-
 <h1 align="center">안녕하세요 👋, 저는 드림코더 Lightman입니다.</h1>
 <h3 align="center">열정적인 풀스택 개발자</h3>
 <p align="left">
