@@ -15,7 +15,7 @@
 
 <p 정렬="왼쪽">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"입니다>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"입니다>
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="블렌더" width="40" height="40" />
