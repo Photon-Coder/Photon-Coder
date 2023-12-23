@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dream Coder Photon.</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kwangyeon1111&label=Profile%20views&color=0e75b6&style=flat" alt="Photon-Coder" />
+  <img src="https://komarev.com/ghpvc/?username=Photon-Coder&label=Profile%20views&color=0e75b6&style=flat" alt="Photon-Coder" />
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Photon-Coder" alt="Photon-Coder" />
   </a>
 </p>
-<h3 align="left">connect with me:</h3>
+<h3 align="left">connect with me</h3>
 <p align="left"></p>
 <h3 align="left">Programming Languages</h3>
 
@@ -94,8 +94,8 @@
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kwangyeon1111&show_icons=true&locale=en" alt="kwangyeon1111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Photon-Coder&show_icons=true&locale=en" alt="Photon-Coder" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwangyeon1111&" alt="kwangyeon1111" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Photon-Coder&" alt="Photon-Coder" />
 </p>
