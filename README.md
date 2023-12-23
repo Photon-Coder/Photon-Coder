@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋, 저는 드림코더 Lightman입니다.</h1>
-<h3 align="center">열정적인 풀스택 개발자</h3>
+<h1 align="center">Hi 👋, I'm Dream Coder Lightman.</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kwangyeon1111&label=Profile%20views&color=0e75b6&style=flat" alt="kwangyeon1111" />
 </p>
@@ -11,7 +11,7 @@
 </p>
 <h3 align="left">connect with me:</h3>
 <p align="left"></p>
-<h3 align="left">언어 및 도구:</h3>
+<h3 align="left">Programming Languages</h3>
 
 <p 정렬="왼쪽">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"입니다>
