@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dream Coder Photon.</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kwangyeon1111&label=Profile%20views&color=0e75b6&style=flat" alt="kwangyeon1111" />
+  <img src="https://komarev.com/ghpvc/?username=kwangyeon1111&label=Profile%20views&color=0e75b6&style=flat" alt="Photon-Coder" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kwangyeon1111" alt="kwangyeon1111" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Photon-Coder" alt="Photon-Coder" />
   </a>
 </p>
 <h3 align="left">connect with me:</h3>
@@ -89,7 +89,7 @@
 </p>
 
 <p>
-  <img align="왼쪽" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwangyeon1111&show_icons=true&locale=en&layout=compact" alt="kwangyeon1111" />
+  <img align="왼쪽" src="https://github-readme-stats.vercel.app/api/top-langs?username=Photon-Coder&show_icons=true&locale=en&layout=compact" alt="Photon-Coder" />
 </p>
 
 <p>
