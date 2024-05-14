@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=photon&label=Profile%20views&color=0e75b6&style=flat" alt="photon" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-photon">
-    <img src="https://github-profile-trophy.vercel.app/?username=photon" alt="photon" />
-  </a>
-</p>
-
 <h3 align="left">
   Connect with me:
 </h3>
